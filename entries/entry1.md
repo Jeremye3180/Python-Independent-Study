@@ -1,5 +1,6 @@
 ---
-Settling On Python!
+
+### Settling On Python!
 
 As I was browsing through the vast variety of topics to explore, I was looking for a topic that would 
 be simple for me to understand, while still being useful and interesting to a large amount of people.
@@ -15,7 +16,8 @@ one of the largest things I needed to know beforehand was...
 
 
 ---
-What is Python?
+
+### What is Python?
 
 From my extensive study on the jist of Python, I found that it is a computer programming language that has a wide variety of uses.
 However, one of its many strong points are in its capabilities for data science and statistics. Python is mostly a 'back-end'
@@ -27,14 +29,13 @@ and made several movies cherrished by many worldwide!
 
 
 ---
-Exploring Python's code
+### Exploring Python's code
 
 When exposing yourself to a new coding language, you wonder, I have only seen syntax from past studies,
 is this new language even remotely similar? In my personal experiance, I can say without a dout that Python is extremely
 similar to that of ruby or javascript as I mentioned before. The hardest part however, is the syntax, lets take a look at few examples.
 
-Comparison 1: Creating a variable
-
+##### Comparison 1: Creating a variable
 
 
 Javascript:
@@ -49,8 +50,7 @@ In this example, the only difference is that python does not use a semi-colon to
 however, it should be noted that it does take whitespace into account.
 
 
-Comparison 2: 
-
+##### Comparison 2: Creating if-else Statements
 
 
 Ruby:
@@ -85,11 +85,9 @@ else:
 Here, you can see that python uses a colon after each condition and unlike ruby,
     Python uses `elif` for an else if statement instead of `elsif` like Ruby does.
 
-
-
 ---
 
-Lets Recollect
+### Lets Recollect
 
 You have read all the way up to here so you are probably wondering, what are the key points that
 you should take away from this week's blog?
