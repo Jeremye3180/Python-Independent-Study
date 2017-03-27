@@ -80,7 +80,7 @@ else:
     
 Here, you can see that python uses a colon after each condition and unlike ruby,
     Python uses `elif` for an else if statement instead of `elsif` like Ruby does.
-
+ in ruby 
 ---
 
 ### Let's Recollect
