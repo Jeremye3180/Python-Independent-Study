@@ -23,8 +23,9 @@ From my extensive study on the jist of Python, I found that it is a computer pro
 However, one of its many strong points are in its capabilities for data science and statistics. Python is mostly a 'back-end'
 programming language that attempts to manipulate data and other inputs made by the user similar to that of Ruby.
 
- Fun Fact: The name of the language "Python" derives from the group of Brittish comedians deemed Monty Python's Flying Circus who had their own television show,
+>Fun Fact: The name of the language "Python" derives from the group of Brittish comedians deemed Monty Python's Flying Circus who had their own television show,
 and made several movies cherrished by many worldwide!  
+
 ---
 
 
