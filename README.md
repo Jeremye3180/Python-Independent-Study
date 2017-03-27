@@ -2,7 +2,7 @@
 
 # Table of Contents 
 
-#####  Week: 1 intro
+#####  Week: 1-Intro
 #####  Week: 2
 #####  Week: 3
 #####  Week: 4
