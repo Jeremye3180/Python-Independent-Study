@@ -14,19 +14,14 @@ one of the largest things I needed to know beforehand was...
 
 ---
 
-
----
-
 ### What is Python?
 
 From my extensive study on the jist of Python, I found that it is a computer programming language that has a wide variety of uses.
 However, one of its many strong points are in its capabilities for data science and statistics. Python is mostly a 'back-end'
 programming language that attempts to manipulate data and other inputs made by the user similar to that of Ruby.
 
->Fun Fact: The name of the language "Python" derives from the group of Brittish comedians deemed Monty Python's Flying Circus who had their own television show,
+> Fun Fact: The name of the language "Python" derives from the group of Brittish comedians deemed Monty Python's Flying Circus who had their own television show,
 and made several movies cherrished by many worldwide!  
-
----
 
 
 ---
@@ -104,7 +99,7 @@ Once you find your topic, my advice to you would be to devote yourself to it for
 By spending as much time as possible on your study, you will overcome that feel of learning something new becuase, in many cases, 
 you find that your topic is not as foriegn as you think.The more time you spend understanding your new topic, the more you will be able to create with it. This will also make
 your study seem less of a chore but more as a blank cavas waiting for its artist to make its mark.
----
+
 
 
 
