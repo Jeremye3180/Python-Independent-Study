@@ -4,6 +4,7 @@ Hello everyone, here I am once again, talking to you every now and then. I
 am back to tell you guys that I have started to work on these mini projects
 to play around with python, to see what I can create in python.
 
+## Takeaways to briighten your day! 
 
 I will say that if you ever are sitting down in front of your computer, you are bored learning syntax
 and you have no idea how to make something from scratch without some form of prompt, use google.
