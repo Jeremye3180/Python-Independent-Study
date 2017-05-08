@@ -15,8 +15,8 @@ standard Python. If I had to describe this concept any other way, I would say it
 if I am going to pursue this but it is still something that I should think about if my original plans fail. 
 
 
-Plotly- This is a special plugin for python that I can import into my console which will allow me to create visual graphs of data sets that I have. 
-What is interesting about this plugin is that majority of the language is foreign to me despite being an advanced plugin of python.
+Plotly- This is a special library for python that I can import into my console which will allow me to create visual graphs of data sets that I have. 
+What is interesting about this library is that majority of the language is foreign to me despite being an advanced library of python.
 This is something that i'm currently looking into which will most likely be my focus of next week unless I find something else that is still 
 similar to python. 
 
