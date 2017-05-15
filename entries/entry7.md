@@ -3,7 +3,7 @@
 # Welcome Back
 
 Hello all you wonderful people, this week I have been tinkering around with examples of plotly and I have been trying to breakdown what different lines of code do  before I start the framework for
-my final project next week. I figured I would take a few examples of code from the plotly tutorial.
+my final project next week. I figured I would take a look of an example of code from the plotly tutorial together.
 
 
 

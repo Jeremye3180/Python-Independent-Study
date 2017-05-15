@@ -8,6 +8,6 @@
 ##### [Week: 4- Math is fun!](entries/entry4.md)
 ##### [Week: 5- Sandwich Maker](entries/entry5.md)
 ##### [Week: 6- Plans for the future!](entries/entry6.md) 
-##### [Week: 7](entries/entry7.md)
+##### [Week: 7- Studying Syntax](entries/entry7.md)
 #####  Week: 8
 #####  Week: 9
