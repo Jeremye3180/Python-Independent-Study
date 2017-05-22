@@ -18,7 +18,7 @@ Anaconda = This is a bundle of programs that have a strong focus on python. Thes
 # Update on final project
 
 I would post a graph on this blog as an example of what to expect but that would take away from the overall presentation, so I will say to check back next week to get the link to view the full website.
-For the record, I currently have the website made an 2 types of graphs made, i'm hoping to have at least 2 more by the end of next week.
+For the record, I currently have the website made an 2 types of graphs made, i'm hoping to have at least 2 more by the end of next week and add all the content by then as well.
 
 
 
