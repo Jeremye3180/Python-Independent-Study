@@ -1,7 +1,7 @@
 
 # Welcome Back
 
-Hey everyone, this week, I spent all my time into making a minimal value product in the form of a website that will display a series of graphs that I make. However, due to some difficulties getting my console to understand plotly,
+Hey everyone, this week, I spent all my time into making a minimum value product in the form of a website that will display a series of graphs that I make. However, due to some difficulties getting my console to understand plotly,
 I was not able to use their resources. This is where I will start to explain the simple substitutions made so that the end product will be relatively the same.
 
 # Explaining my resources
