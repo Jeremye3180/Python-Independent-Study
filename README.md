@@ -9,5 +9,5 @@
 ##### [Week: 5- Sandwich Maker](entries/entry5.md)
 ##### [Week: 6- Plans for the future!](entries/entry6.md) 
 ##### [Week: 7- Studying Syntax](entries/entry7.md)
-#####  Week: 8
+##### [Week: 8-  Making an MVP](entries/entry8.md)
 #####  Week: 9
