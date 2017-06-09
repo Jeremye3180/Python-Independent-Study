@@ -10,4 +10,5 @@
 ##### [Week: 6- Plans for the future!](entries/entry6.md) 
 ##### [Week: 7- Studying Syntax](entries/entry7.md)
 ##### [Week: 8-  Making an MVP](entries/entry8.md)
-#####  Week: 9
+##### [Link to final project: ](https://jeremye3180.github.io/final-project/)
+##### [Link to presentation](https://docs.google.com/a/hstat.org/presentation/d/1MV0teuIbqpbQXkobxI8_xnjDPtYNqyxSYJq7r9tKjo4/edit?usp=sharing)
